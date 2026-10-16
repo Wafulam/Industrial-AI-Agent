@@ -1,0 +1,34 @@
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Generated reports and local runtime data
+motor_report.txt
+machine_runtime.json
+
+# Python test and coverage files
+.pytest_cache/
+.coverage
+
+# Generated maintenance records
+maintenance_events.json
+motor_history.csv
+motor_maintenance.xlsx
